@@ -6,6 +6,8 @@ The images contain grey levels for each pixel between 0 – 255. The images are 
 The training and test labels values are from 0 to 9.
 Training and test image pixels are organized row-wise. Pixel values are 0 to 255. 0 means background (white), 255 means foreground (black).
 
+# Covariance Matrix and Eigen-decomposition
+
 <img width="263" alt="image" src="https://github.com/user-attachments/assets/55bb1be1-6121-493e-9438-2af8f3c114fd">
 
 <img width="287" alt="image" src="https://github.com/user-attachments/assets/2155532b-e3cd-4742-89ee-0fb30b0dcffc">
